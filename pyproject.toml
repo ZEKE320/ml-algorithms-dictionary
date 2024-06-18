@@ -13,6 +13,7 @@ pandas = "*"
 numpy = "*"
 matplotlib = "*"
 seaborn = "*"
+scikit-learn = "^1.5.0"
 
 
 [build-system]
